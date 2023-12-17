@@ -1,0 +1,3 @@
+image_one: "src/orb/swiss_1_a.jpg"
+image_two: "src/orb/swiss_1_b.jpg"
+output_dir: "src/orb/"
